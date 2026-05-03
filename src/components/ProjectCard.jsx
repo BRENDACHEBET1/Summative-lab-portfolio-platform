@@ -1,3 +1,5 @@
+import { FaTrash } from "react-icons/fa";
+
 const ProjectCard=({ project, handleDelete }) =>{
   return (
     <div className='bg-white shadow-md rounded-2xl p-4 sm:p-6 max-w-sm w-full'>
@@ -7,9 +9,7 @@ const ProjectCard=({ project, handleDelete }) =>{
 
       <p className='text-sm sm:text-base text-gray-600 mb-3'>{project.description} </p>
       
-      <button onClick={() => handleDelete(project.id)} className='mt-2 bg-red-500 hover:bg-red-600 text-white text-sm px-4 py-2 rounded-lg' >Delete
-      </button>
-
+    <FaTrash onClick={() => handleDelete(project.id)} className="w-4 h-4 text-red-500 hover:text-red-700 cursor-pointer"/>
     </div>
   );
 }

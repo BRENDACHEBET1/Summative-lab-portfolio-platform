@@ -1,16 +1,30 @@
-# React + Vite
+# Summative Lab Portfolio Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio platform built with **React** and **Tailwind CSS**. This project allows users to showcase their work, skills, and projects in a clean, professional format.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## Features
+- Responsive design for desktop, tablet, and mobile devices
+- Smooth navigation between portfolio sections
+- Easily customizable project cards and content
+- Built with modern React practices and Tailwind CSS styling
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Demo
+Include a link to your live demo here (if deployed):  
+[Live Demo]https://summative-lab-portfolio-platform.vercel.app/
 
-## Expanding the ESLint configuration
+## Technologies
+- [React](https://reactjs.org/) – Frontend library
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
+- [Vite](https://vitejs.dev/) – Fast development build tool
+- JavaScript (ES6+) – Core programming language
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/BRENDACHEBET1/Summative-lab-portfolio-platform.git
+
+## Author
+Brenda Chebet.
+
