@@ -43,8 +43,7 @@ const AddProject = ({ addProject }) => {
       {/* button to show or hide the form */}
       {/* text changes depending on whether the form is visible */}
       <button onClick={() => setShowForm((prev) => !prev)}
-        className="w-full sm:w-60 bg-blue-950 text-white py-2 rounded-lg hover:bg-blue-600 transition"
-      >
+        className="w-full sm:w-60 bg-blue-950 text-white py-2 rounded-lg hover:bg-blue-600 transition">
         {showForm ? "Close Form" : "Add Project"}
       </button>
 
