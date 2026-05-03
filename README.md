@@ -17,10 +17,11 @@ A modern, responsive portfolio platform built with **React** and **Tailwind CSS*
 - [Vite](https://vitejs.dev/) – Fast development build tool
 - JavaScript (ES6+) – Core programming language
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/BRENDACHEBET1/Summative-lab-portfolio-platform.git
+## How to Use
+- Navigate through sections using the menu
+- Search projects using the search bar
+- Filter projects by category
+- Add new projects using the form
 
 ## Author
 Brenda Chebet.
